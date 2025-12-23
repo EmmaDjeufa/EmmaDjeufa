@@ -23,10 +23,10 @@ AWS | GCP
 Docker | Kubernetes | Terraform | Ansible | GitLab CI/CD  
 
 **Programming**  
-Python | Bash | JavaScript | TypeScript  
+Python | Bash | JavaScript | TypeScript | React | Angular
 
 **Monitoring & Tools**  
-Prometheus | ELK (basics) | Git | Linux
+Virtual Machines | Ansible | Git | Linux
 
 ## 📌 Featured Projects
 
@@ -50,7 +50,7 @@ CI/CD pipeline with GitLab.
 ## 🎯 What I'm Looking For
 
 - Cloud & DevOps consulting missions
-- Cloud transformation projects
+- Cloud & data transformation projects
 - Mentorship & strong engineering culture
 - Continuous learning and certifications
 
