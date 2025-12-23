@@ -59,7 +59,7 @@ Set up an automated deployment workflow and version control best practices.
 ## 🎯 What I'm Looking For
 
 - Cloud & DevOps consulting missions
-- Cloud & data transformation projects
+- Cloud & Big Data transformation projects
 - Strong engineering culture & mentorship
 - Continuous learning and certifications (AWS, Kubernetes, Cloud)
 
