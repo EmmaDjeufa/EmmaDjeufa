@@ -1,58 +1,69 @@
 # 👋 Hi, I'm Emmanuella Ngougue Djeufa
 
-Cloud & DevOps Engineer | AWS • GCP • Kubernetes • Terraform & Docker
+Cloud & DevOps Engineer | AWS • GCP • Docker • Kubernetes • Terraform  
 
-I design, automate and secure cloud infrastructures with a strong DevOps mindset.
-Curious, proactive and passionate about continuous learning.
+I design, automate and secure cloud infrastructures with a strong DevOps and learning mindset.  
+Curious, proactive and motivated by continuous improvement and team collaboration.
 
+---
 
 ## 🚀 About Me
 
-- 🎓 Cloud Computing Engineer (CY Tech – France)
-- ☁️ Strong foundations in Cloud Public (AWS, GCP)
+- 🎓 Cloud Computing Engineer – CY Tech (France)
+- ☁️ Solid foundations in Public Cloud (AWS, GCP)
 - ⚙️ Infrastructure as Code & CI/CD automation
-- 🔐 Security-aware (ANSSI MOOC, secure remote access, IAM)
-- 🤝 Team-oriented, agile and eager to learn from experienced engineers
+- 🔐 Security-aware (ANSSI MOOC, IAM, secure remote access)
+- 🤝 Team-oriented, agile and eager to grow through mentorship
+
+---
 
 ## 🛠️ Tech Stack
 
-**Cloud**  
+**Cloud Platforms**  
 AWS | GCP  
 
-**DevOps & IaC**  
+**DevOps & Infrastructure as Code**  
 Docker | Kubernetes | Terraform | Ansible | GitLab CI/CD  
 
-**Programming**  
-Python | Bash | JavaScript | TypeScript | React | Angular
+**Programming & Scripting**  
+Python | Bash | JavaScript | TypeScript  
 
-**Monitoring & Tools**  
-Virtual Machines | Ansible | Git | Linux
+**Web & Frameworks**  
+React | Angular | FastAPI  
+
+**Tools & Systems**  
+Git | Linux | Virtual Machines  
+
+---
 
 ## 📌 Featured Projects
 
-### 🔹 AWS Cloud Infrastructure Deployment
-Provisioned AWS resources using Terraform.
-Implemented DevOps best practices (IaC, automation, security).
+### 🔹 Serverless Web Infrastructure on AWS
+Designed and deployed a serverless web infrastructure using AWS services.  
+Implemented best practices in automation, security and scalability.
 
-➡️ Tech: AWS, Terraform, Docker  
-➡️ Focus: scalability, security, automation
+➡️ **Tech:** AWS (Lambda, S3, IAM), Angular  
+➡️ **Focus:** serverless architecture, security, scalability
 
 ---
 
 ### 🔹 Containerized Web Application (FastAPI)
-Deployed a FastAPI application using Docker and Terraform.
-CI/CD pipeline with GitLab.
+Built and deployed a containerized FastAPI application using Docker.  
+Set up an automated deployment workflow and version control best practices.
 
-➡️ Tech: Docker, Terraform, GitLab CI  
-➡️ Focus: DevOps workflows & automation
+➡️ **Tech:** Docker, FastAPI, Python, Git  
+➡️ **Focus:** containerization, DevOps workflows, automation
 
+---
 
 ## 🎯 What I'm Looking For
 
 - Cloud & DevOps consulting missions
 - Cloud & data transformation projects
-- Mentorship & strong engineering culture
-- Continuous learning and certifications
+- Strong engineering culture & mentorship
+- Continuous learning and certifications (AWS, Kubernetes, Cloud)
+
+---
 
 ## 📫 Let's Connect
 
