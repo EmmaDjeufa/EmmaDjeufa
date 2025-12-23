@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Emmanuella Ngougue Djeufa
 
-<!--
-**EmmaDjeufa/EmmaDjeufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer | AWS • GCP • Kubernetes • Terraform & Docker
 
-Here are some ideas to get you started:
+I design, automate and secure cloud infrastructures with a strong DevOps mindset.
+Curious, proactive and passionate about continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+
+- 🎓 Cloud Computing Engineer (CY Tech – France)
+- ☁️ Strong foundations in Cloud Public (AWS, GCP)
+- ⚙️ Infrastructure as Code & CI/CD automation
+- 🔐 Security-aware (ANSSI MOOC, secure remote access, IAM)
+- 🤝 Team-oriented, agile and eager to learn from experienced engineers
+
+## 🛠️ Tech Stack
+
+**Cloud**  
+AWS | GCP  
+
+**DevOps & IaC**  
+Docker | Kubernetes | Terraform | Ansible | GitLab CI/CD  
+
+**Programming**  
+Python | Bash | JavaScript | TypeScript  
+
+**Monitoring & Tools**  
+Prometheus | ELK (basics) | Git | Linux
+
+## 📌 Featured Projects
+
+### 🔹 AWS Cloud Infrastructure Deployment
+Provisioned AWS resources using Terraform.
+Implemented DevOps best practices (IaC, automation, security).
+
+➡️ Tech: AWS, Terraform, Docker  
+➡️ Focus: scalability, security, automation
+
+---
+
+### 🔹 Containerized Web Application (FastAPI)
+Deployed a FastAPI application using Docker and Terraform.
+CI/CD pipeline with GitLab.
+
+➡️ Tech: Docker, Terraform, GitLab CI  
+➡️ Focus: DevOps workflows & automation
+
+
+## 🎯 What I'm Looking For
+
+- Cloud & DevOps consulting missions
+- Cloud transformation projects
+- Mentorship & strong engineering culture
+- Continuous learning and certifications
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: https://portfolio-emmanuella-navy.vercel.app/
+- ✉️ Email: emmandjeufa@gmail.com
