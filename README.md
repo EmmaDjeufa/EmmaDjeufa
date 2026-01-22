@@ -47,12 +47,11 @@ Implemented best practices in automation, security and scalability.
 
 ---
 
-### 🔹 Containerized Web Application (FastAPI)
-Built and deployed a containerized FastAPI application using Docker.  
-Set up an automated deployment workflow and version control best practices.
+### 🔹 Student Events App 
+A full-stack web application for managing student events, registrations, adminnistrators and users profiles.  
 
-➡️ **Tech:** Docker, FastAPI, Python, Git  
-➡️ **Focus:** containerization, DevOps workflows, automation
+➡️ **Tech:** React, Javascript, Cloudinary, Node.js, Express
+➡️ **Focus:** DevOps workflows, Full Stack
 
 ---
 
