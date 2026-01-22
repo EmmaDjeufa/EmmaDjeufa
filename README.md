@@ -50,7 +50,7 @@ Implemented best practices in automation, security and scalability.
 ### 🔹 Student Events App 
 A full-stack web application for managing student events, registrations, adminnistrators and users profiles.  
 
-➡️ **Tech:** React, Javascript, Cloudinary, Node.js, Express
+➡️ **Tech:** React, Javascript, Cloudinary, Node.js, Express                                          
 ➡️ **Focus:** DevOps workflows, Full Stack
 
 ---
