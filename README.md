@@ -44,7 +44,7 @@ Implemented best practices in automation, security and scalability.
 
 ➡️ **Tech:** AWS (Lambda, S3, IAM), Angular  
 ➡️ **Focus:** serverless architecture, security, scalability
-
+https://github.com/EmmaDjeufa/TP_Infrastructure_AWS
 ---
 
 ### 🔹 Student Events App 
@@ -52,7 +52,7 @@ A full-stack web application for managing student events, registrations, adminni
 
 ➡️ **Tech:** React, Javascript, Cloudinary, Node.js, Express                                          
 ➡️ **Focus:** DevOps workflows, Full Stack
-
+https://student-events-app-2.onrender.com/
 ---
 
 ## 🎯 What I'm Looking For
