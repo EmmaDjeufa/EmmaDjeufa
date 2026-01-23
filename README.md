@@ -43,7 +43,7 @@ Designed and deployed a serverless web infrastructure using AWS services.
 Implemented best practices in automation, security and scalability.
 
 ➡️ **Tech:** AWS (Lambda, S3, IAM), Angular  
-➡️ **Focus:** serverless architecture, security, scalability
+➡️ **Focus:** serverless architecture, security, scalability                                              
 https://github.com/EmmaDjeufa/TP_Infrastructure_AWS
 ---
 
@@ -51,7 +51,7 @@ https://github.com/EmmaDjeufa/TP_Infrastructure_AWS
 A full-stack web application for managing student events, registrations, adminnistrators and users profiles.  
 
 ➡️ **Tech:** React, Javascript, Cloudinary, Node.js, Express                                          
-➡️ **Focus:** DevOps workflows, Full Stack
+➡️ **Focus:** DevOps workflows, Full Stack                                                         
 https://student-events-app-2.onrender.com/
 ---
 
