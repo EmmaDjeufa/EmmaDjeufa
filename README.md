@@ -45,14 +45,41 @@ Implemented best practices in automation, security and scalability.
 ➡️ **Tech:** AWS (Lambda, S3, IAM), Angular  
 ➡️ **Focus:** serverless architecture, security, scalability                                              
 https://github.com/EmmaDjeufa/TP_Infrastructure_AWS
+
 ---
 
 ### 🔹 Student Events App 
-A full-stack web application for managing student events, registrations, adminnistrators and users profiles.  
+A full-stack web application for managing student events, registrations, administrators and users profiles.  
 
 ➡️ **Tech:** React, Javascript, Cloudinary, Node.js, Express                                          
 ➡️ **Focus:** DevOps workflows, Full Stack                                                         
 https://student-events-app-2.onrender.com/
+
+---
+
+### 🔹 PPT_infra – Chatbot & Image Generator
+A web app combining a GPT-powered chatbot with DALL·E image generation. Dockerized and cloud-ready.  
+
+➡️ **Tech:** Python (Flask), OpenAI GPT & DALL·E, Docker  
+➡️ **Focus:** AI chatbot, image generation, cloud-ready deployment  
+Live Demo: [PPT_infra Web App](https://github.com/EmmaDjeufa/PPT_infra)
+
+---
+
+### 🔹 GameBoy Emulator in Rust
+For this Rust programming project, we created a Nintendo GameBoy emulator.  
+Implemented CPU instruction handling, memory read/write, graphics output, and user input.  
+
+➡️ **Tech:** Rust, minifb, paste  
+➡️ **Focus:** CPU emulation, graphics rendering, user input handling, game cartridge support  
+Execution: Run `cargo run` at the project root.  
+
+**Key Mapping:**  
+- UP = Z | DOWN = S | LEFT = Q | RIGHT = D  
+- START = I | SELECT = O | A = K | B = L | CLOSE = ESC  
+
+Project Repository: [GBEmulatorRust](https://github.com/EmmaDjeufa/GBE_mulator_Rust)
+
 ---
 
 ## 🎯 What I'm Looking For
