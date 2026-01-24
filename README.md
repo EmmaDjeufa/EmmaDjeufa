@@ -62,7 +62,7 @@ A web app combining a GPT-powered chatbot with DALL·E image generation. Dockeri
 
 ➡️ **Tech:** Python (Flask), OpenAI GPT & DALL·E, Docker  
 ➡️ **Focus:** AI chatbot, image generation, cloud-ready deployment  
-Live Demo: [PPT_infra Web App](https://github.com/EmmaDjeufa/PPT_infra)
+Live Demo: [PPT_infra Web App](https://chatbot-dalle.onrender.com/)
 
 ---
 
