@@ -39,12 +39,14 @@ Git | Linux | Virtual Machines
 ## 📌 Featured Projects
 
 ### 🔹 Serverless Web Infrastructure on AWS
+
 Designed and deployed a serverless web infrastructure using AWS services.  
 Implemented best practices in automation, security and scalability.
 
 ➡️ **Tech:** AWS (Lambda, S3, IAM), Angular  
 ➡️ **Focus:** serverless architecture, security, scalability
 Live Demo: [AWS_Web_Infra](https://github.com/EmmaDjeufa/TP_Infrastructure_AWS)
+
 ---
 
 ###🔹 Film Recommendation App ...En cours
@@ -52,7 +54,6 @@ Live Demo: [AWS_Web_Infra](https://github.com/EmmaDjeufa/TP_Infrastructure_AWS)
 A full-stack movie recommendation platform where users can create an account, verify their email, discover recommended movies, manage their favorites and personalize their profile. The application also includes an administration dashboard for managing content and users.
 
 ➡️ **Tech:** Angular, Node.js, Express, PostgreSQL, Cloudinary, Render
-
 ➡️ **Focus:** Full Stack development, authentication & authorization, REST APIs, email verification, responsive UI, cloud deployment
 Live Demo: [ReckomFilms](https://reckomfilms.vercel.app/)
 
