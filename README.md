@@ -49,7 +49,7 @@ Live Demo: [AWS_Web_Infra](https://github.com/EmmaDjeufa/TP_Infrastructure_AWS)
 
 ---
 
-###🔹 Film Recommendation App ...En cours
+### 🔹 Film Recommendation App ...En cours
 
 A full-stack movie recommendation platform where users can create an account, verify their email, discover recommended movies, manage their favorites and personalize their profile. The application also includes an administration dashboard for managing content and users.
 
